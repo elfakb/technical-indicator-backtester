@@ -4,7 +4,7 @@ This project is a  **Algorithmic Trading Backtesting Engine** built with Python.
 
 The system focuses on **Borsa Istanbul (BIST)** stocks ('ASELS.IS', `THYAO.IS`, `GARAN.IS`) but supports any asset available on Yahoo Finance. It features a robust visualization pipeline that generates a 7-panel comprehensive dashboard for deep technical analysis.
 
-## 🛠 Features
+## Features
 
 ### 1. Technical Analysis Engine (`indicators.py`)
 Calculates a wide range of indicators from scratch using `pandas` and `numpy`:
@@ -50,5 +50,22 @@ The current implementation tests a hybrid **Trend Following + Mean Reversion** s
 ## Disclaimer
 This project is for educational and research purposes only. It does not constitute financial advice. Past performance is not indicative of future results.
 
-## 📄esearch Paper & Documentation
+## Research Paper & Documentation
 **[Download the Full Project Report (PDF)](./BIST Hisseleri Üzerinde Teknik İndikatörlere Dayalı Algoritmik Ticaret Stratejilerinin Geliştirilmesi ve Backtest Analizi.pdf)** *Click above to view the detailed mathematical background, strategy analysis, and conclusion of this study.*
+
+##Backtest Results
+
+Here are the performance charts generated for 10-year historical data.
+
+### 1. Turkish Airlines (THYAO.IS)
+![THYAO Chart](thy.jpeg)
+
+---
+
+### 2. Garanti BBVA (GARAN.IS)
+![GARAN Chart](garan.jpeg)
+
+---
+
+### 3. Aselsan (ASELS.IS)
+![ASELS Chart](asel.jpeg)
