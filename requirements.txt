@@ -1,0 +1,6 @@
+# !pip install yfinance pandas numpy matplotlib
+
+numpy
+pandas
+yfinance
+matplotlib
