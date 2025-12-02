@@ -50,9 +50,6 @@ The current implementation tests a hybrid **Trend Following + Mean Reversion** s
 ## Disclaimer
 This project is for educational and research purposes only. It does not constitute financial advice. Past performance is not indicative of future results.
 
-## Research Paper & Documentation
-**[Download the Full Project Report (PDF)](./BIST Hisseleri Üzerinde Teknik İndikatörlere Dayalı Algoritmik Ticaret Stratejilerinin Geliştirilmesi ve Backtest Analizi.pdf)** *Click above to view the detailed mathematical background, strategy analysis, and conclusion of this study.*
-
 ##Backtest Results
 
 Here are the performance charts generated for 10-year historical data.
